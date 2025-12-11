@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akshatha-A16/react-todo-app/static/css/main.3b7eaf0e.css",
+    "main.js": "/Akshatha-A16/react-todo-app/static/js/main.9d78458d.js",
+    "static/js/453.03d40b11.chunk.js": "/Akshatha-A16/react-todo-app/static/js/453.03d40b11.chunk.js",
+    "index.html": "/Akshatha-A16/react-todo-app/index.html",
+    "main.3b7eaf0e.css.map": "/Akshatha-A16/react-todo-app/static/css/main.3b7eaf0e.css.map",
+    "main.9d78458d.js.map": "/Akshatha-A16/react-todo-app/static/js/main.9d78458d.js.map",
+    "453.03d40b11.chunk.js.map": "/Akshatha-A16/react-todo-app/static/js/453.03d40b11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b7eaf0e.css",
+    "static/js/main.9d78458d.js"
+  ]
+}
